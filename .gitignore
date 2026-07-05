@@ -1,0 +1,10 @@
+.terraform\
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
+crash.log
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+terraform-provider-aws_v6.52.0_x5.exe
